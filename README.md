@@ -1,0 +1,1 @@
+# bipro-ws-scheduler-service
